@@ -1,0 +1,10 @@
+{
+  "objective": 0.2125443044321869,
+  "rms_spot_mm": 0.06372352567106422,
+  "efl_mm": 49.149027469099416,
+  "focal_error": 0.01701945061801169,
+  "transmission": 1.0,
+  "worst_transmission": 1.0,
+  "min_clearance_mm": 1.7851257741101323,
+  "feasible": true
+}

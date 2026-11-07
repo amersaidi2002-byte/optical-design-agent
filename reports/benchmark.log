@@ -1,0 +1,50 @@
+benchmark task 1/24
+benchmark task 2/24
+benchmark task 3/24
+benchmark task 4/24
+benchmark task 5/24
+benchmark task 6/24
+benchmark task 7/24
+benchmark task 8/24
+benchmark task 9/24
+benchmark task 10/24
+benchmark task 11/24
+benchmark task 12/24
+benchmark task 13/24
+benchmark task 14/24
+benchmark task 15/24
+benchmark task 16/24
+benchmark task 17/24
+benchmark task 18/24
+benchmark task 19/24
+benchmark task 20/24
+benchmark task 21/24
+benchmark task 22/24
+benchmark task 23/24
+benchmark task 24/24
+{
+  "tasks": 24,
+  "seeds": [
+    11,
+    22,
+    33
+  ],
+  "median_objective_baseline": 0.17722003798429414,
+  "median_objective_agent": 0.16236773789102293,
+  "median_paired_improvement_percent": 11.39152387019955,
+  "paired_improvement_bootstrap_95_percent": [
+    -3.1410874067139964,
+    20.6556541986075
+  ],
+  "ratio_of_medians_improvement_percent": 8.38071149414124,
+  "task_win_rate": 0.625,
+  "run_win_rate": 0.6527777777777778,
+  "feasibility_baseline": 1.0,
+  "feasibility_agent": 1.0,
+  "median_within_task_seed_std_baseline": 0.04819726097398262,
+  "median_within_task_seed_std_agent": 0.04320675506996549,
+  "dense_audit_feasibility_baseline": 1.0,
+  "dense_audit_median_objective_baseline": 0.19544850731767732,
+  "dense_audit_feasibility_agent": 1.0,
+  "dense_audit_median_objective_agent": 0.15832598495353725
+}

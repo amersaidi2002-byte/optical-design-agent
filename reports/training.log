@@ -1,0 +1,14 @@
+epoch 50/250: train=0.1173 val=0.1556
+epoch 100/250: train=0.0837 val=0.1147
+epoch 150/250: train=0.0763 val=0.1057
+epoch 200/250: train=0.0701 val=0.1022
+epoch 250/250: train=0.0672 val=0.1001
+{
+  "seed": 2026,
+  "epochs": 250,
+  "best_epoch": 239,
+  "best_validation_loss": 0.09893856942653656,
+  "train_examples": 1600,
+  "validation_examples": 200,
+  "elite_fraction": 0.2
+}
